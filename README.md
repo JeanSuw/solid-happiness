@@ -1,19 +1,20 @@
 # Solid-Happiness
-
-## Description(#table-of-content)
+E-commerce Back End
+## [Description](#table-of-content)
 
 ## table-of-content
 * [Description](#description)
 * [Installation](#installation)
-* [Useage](#useage)
+* [Usage](#usage)
 * [Credits](#credits)
 
-## Installation
+## Installation(#table-of-content)
+This application will not be deployed. The walkthrough is provided in usage section
 
-## Useage
+## [Usage](#table-of-content)
 
 
-## Credits
+## [Credits](#table-of-content)
 
 
 * Bootcamp course 13-ORM
