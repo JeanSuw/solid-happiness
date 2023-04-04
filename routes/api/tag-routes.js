@@ -25,7 +25,7 @@ router.get('/:id', async(req, res) => {
       where: [{ id: req.params.id }],
     },
     {
-      include: [{  model: Product, through: ProductTag }],
+      include: [{ model: Product, through: ProductTag }],
     }
     );
     res.status(200).json(tagData);
