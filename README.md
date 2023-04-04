@@ -15,6 +15,7 @@ Package Requirement
 ```bash
 npm i mysql2
 npm i sequelize
+npm i dotenv
 ```
 ## [Usage](#table-of-content)
 
@@ -31,8 +32,9 @@ Without these guidances, my application would not exist
 Packages
 * [Mysql2](https://www.npmjs.com/package/mysql2)
 * [Sequelize](https://www.npmjs.com/package/sequelize)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
 
-* Bootcamp course 13-ORM
-    * 13-Ins_Validation
-    * 21-Ins_One-to-One
-    * 23-Ins_One-to-Many
+Bootcamp course 13-ORM
+* 13-Ins_Validation
+* 21-Ins_One-to-One
+* 23-Ins_One-to-Many
