@@ -6,6 +6,7 @@ E-commerce Back End
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Walkthroughs](#walkthroughs)
 * [Credits](#credits)
 
 ## Installation(#table-of-content)
@@ -42,11 +43,11 @@ http://localhost:3001/api/Products
 
 ### GET all
 SWITCH to GET
-To GET all the items from Products, Categories, or tags, here is the quick walkthrough
+To GET all the items from Products, Categories, or tags.
 
 ### GET One with id
 SWITCH to GET
-To GET one item from Products, Categories, or tags, here is the quick walkthrough
+To GET one item from Products, Categories, or tags
 
 ### PUT / Update
 Switch to PUT
@@ -109,6 +110,12 @@ http://localhost:3001/api/Tags
     "tag_name":"INSERT_NAME_HERE"
 }
 ```
+## [Walkthroughs](#table-of-content)
+* [Walkthrough for How to start application, request GET all and GET one by id](./tutorials/Part1.webm)
+* [Walkthrough for How to Delete things by id](./tutorials/DeleteRequests.webm)
+* [Walkthrough for How to Put/Update by id](./tutorials/UpdateRequest.webm)
+* [Walkthrough for How to Post/Create new items](./tutorials/PostRequest.webm)
+
 
 ## [Credits](#table-of-content)
 Without these guidances, my application would not exist
